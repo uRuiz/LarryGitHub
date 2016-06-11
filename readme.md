@@ -2,4 +2,6 @@
 
 Esta serie de libros cuentan la historia de un hacker de los que hay pocos.
 
-**Urko Ruiz**, Git lover
+
+**Urko Ruiz**, Git lover & Larry Plotter lover
+
