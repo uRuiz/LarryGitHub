@@ -5,3 +5,4 @@
 * Larry Plotter y La Orden de Unix
 * Larry Plotter y EL Misterio del Hacker
 * Larry Plotter y Los Commits de la Muerte
+* Larry Plotter y El legado de la Shell 
